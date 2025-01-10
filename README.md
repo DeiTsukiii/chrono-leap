@@ -56,7 +56,7 @@
 ## 🛠️ Technologies Used  
  
 - **Programming Language**: JavaScript  
-- **Framework**: Phaser.js 
+- **Framework**: [Phaser.js](https://phaser.io) 
 
 ---  
 
